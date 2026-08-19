@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+llm_interaction_log.md
+
+# ---------------------------------------------------------------------------
+# CS 7389H — instructor-only material.
+# ---------------------------------------------------------------------------
+instructor/
+*-master.ipynb
+*[Ss]olution*.ipynb
+*[Ss]olutions*.ipynb
+RUBRIC.md
+ERRATA.md
