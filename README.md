@@ -35,7 +35,7 @@ upload the completed `.ipynb` to Canvas. Submission instructions are in the note
 
 ## Requirements
 
-    python >= 3.10, numpy, matplotlib, pandas, scipy, statsmodels
+    python >= 3.10, numpy, matplotlib, pandas, scipy, statsmodels, torch, mnist1d
 
 Assignment 1 downloads a dataset over the network the first time you run its Q4.2, so be
 online for that cell.
